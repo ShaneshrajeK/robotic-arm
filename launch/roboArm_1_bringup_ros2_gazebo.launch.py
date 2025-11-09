@@ -1,5 +1,4 @@
-# Author: Addison Sears-Collins
-# Date: July 30, 2024
+# Author: Shaneshraje Kadu
 # Description: Launch a robotic arm in Gazebo
 import os
 from launch import LaunchDescription
